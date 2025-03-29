@@ -4,6 +4,9 @@ This Power BI project provides an in-depth analysis of a healthcare dataset, foc
 
 ---
 
+<img width="521" alt="Dashboard - Healthcare Analysis" src="https://github.com/user-attachments/assets/2293df25-a73a-4e0a-92f4-a9bfc648ef6e" />
+
+
 ## 📊 Key Features & Analyses
 
 ### 1. **Patient Overview**
